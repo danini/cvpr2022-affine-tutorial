@@ -36,15 +36,6 @@ The main objective of this tutorial is to present the theory and applications of
 	<a href="https://dmytro.ai/">Dmytro Mishkin</a> <br> Center for Machine Perception, Department of Cybernetics, Faculty of Electrical Engineering, Czech Technical University, Prague <br> ducha.aiki@gmail.com
 	</div>
 	</div>
-
-	&nbsp;
-
-       	<div class="container">
-	<img class="circular_image" src="imgs/pritts.jpg"/>
-	<div class="content">
-	<a href="https://prittjam.github.io/">James Pritts</a> <br> Applied Algebra & Geometry Group, Czech Institute of Informatics, Robotics and Cybernetics, Czech Technical University in Prague<br> jbpritts@gmail.com
-	</div>
-	</div>
   </div>
 
   <div class="column">
@@ -52,6 +43,15 @@ The main objective of this tutorial is to present the theory and applications of
 	<img class="circular_image" src="imgs/HL.jpg"/>
 	<div class="content">
 	<a href="http://cv.inf.elte.hu/">Levente Hajder</a> <br> Geometric Computer Vision Group, Department of Algorithms and their Applications, Eötvös Loránd University<br> hajder@inf.elte.hu
+	</div>
+	</div>
+
+	&nbsp;
+
+       	<div class="container">
+	<img class="circular_image" src="imgs/pritts.jpg"/>
+	<div class="content">
+	<a href="https://prittjam.github.io/">James Pritts</a> <br> Applied Algebra & Geometry Group, Czech Institute of Informatics, Robotics and Cybernetics, Czech Technical University in Prague<br> jbpritts@gmail.com
 	</div>
 	</div>
   </div>
