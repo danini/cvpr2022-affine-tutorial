@@ -1,0 +1,72 @@
+---
+---
+/*Check this for samples https://github.com/pages-themes/cayman/blob/master/_sass/jekyll-theme-cayman.scss*/
+@import 'jekyll-theme-cayman';
+
+.masthead_init {
+    background: #000531 url(../../imgs/Universe_5_Hero.jpg) no-repeat center center;
+    background-size: cover;
+    
+}
+
+.masthead {
+    padding: 70px;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    background: url(../../imgs/website_banner_notext3-1.png) no-repeat center center;
+    background-size: auto 100%;
+    background-size: cover;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.9); 
+}
+
+.normalheader{
+    color: blue;
+}
+
+.circular_image {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: blue;
+
+  /* commented for demo
+  float: left;
+  margin-left: 125px;
+  margin-top: 20px;
+  */
+  
+  /*for demo
+  display:inline-block;
+  vertical-align:middle;
+
+  text-align:right;
+  float: left;
+*/
+
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 120px auto;
+  grid-column-gap: 20px;
+  text-align:left;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 0px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
