@@ -22,45 +22,36 @@ The main objective of this tutorial is to present the theory and applications of
 <div class="row">
   <div class="column">
     	<div class="container">
-	<img class="circular_image" src="imgs/timo_crop.jpg"/>
+	<img class="circular_image" src="imgs/daniel.jpg"/>
 	<div class="content">
-	<a href="https://timomilbich.github.io/">Timo Milbich</a> <br> LMU Munich, Heidelberg University <br> timo.milbich@iwr.uni-heidelberg.de
+	<a href="http://people.inf.ethz.ch/dbarath/">Daniel Barath</a> <br> Computer Vision and Geometry Group, ETH Zurich <br> dbarath@ethz.ch
 	</div>
 	</div>
 
 	&nbsp;
 
        	<div class="container">
-	<img class="circular_image" src="imgs/ismail.jpg"/>
+	<img class="circular_image" src="imgs/Dmytro.jpg"/>
 	<div class="content">
-	<a href="https://dvl.in.tum.de/team/elezi/">Ismail Elezi</a> <br> Technical University of Munich <br> ismail.elezi@tum.de
+	<a href="https://dmytro.ai/">Dmytro Mishkin</a> <br> Center for Machine Perception, Department of Cybernetics, Faculty of Electrical Engineering, Czech Technical University, Prague <br> ducha.aiki@gmail.com
 	</div>
 	</div>
 
 	&nbsp;
 
        	<div class="container">
-	<img class="circular_image" src="imgs/bjorn_crop2.jpg"/>
+	<img class="circular_image" src="imgs/pritts.jpg"/>
 	<div class="content">
-	<a href="https://ommer-lab.com/people/ommer/">Björn Ommer</a> <br> LMU Munich, Heidelberg University <br> ommer@lmu.de
+	<a href="https://prittjam.github.io/">James Pritts</a> <br> Applied Algebra & Geometry Group, Czech Institute of Informatics, Robotics and Cybernetics, Czech Technical University in Prague<br> jbpritts@gmail.com
 	</div>
 	</div>
   </div>
 
   <div class="column">
        	<div class="container">
-	<img class="circular_image" src="imgs/jenny.jpg"/>
+	<img class="circular_image" src="imgs/HL.jpg"/>
 	<div class="content">
-	<a href="https://dvl.in.tum.de/team/seidenschwarz/">Jenny Seidenschwarz</a> <br> Technical University of Munich <br> j.seidenschwarz@tum.de
-	</div>
-	</div>
-
-	&nbsp;
-
-       	<div class="container">
-	<img class="circular_image" src="imgs/laura_crop.jpg"/>
-	<div class="content">
-	<a href="https://dvl.in.tum.de/team/lealtaixe/">Laura Leal-Taixe</a> <br> Technical University of Munich <br> leal.taixe@tum.de
+	<a href="http://cv.inf.elte.hu/">Levente Hajder</a> <br> Geometric Computer Vision Group, Department of Algorithms and their Applications, Eötvös Loránd University<br> hajder@inf.elte.hu
 	</div>
 	</div>
   </div>
