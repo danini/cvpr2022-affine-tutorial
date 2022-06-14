@@ -10,11 +10,46 @@ The main objective of this tutorial is to present the theory and applications of
 ### Info
 
 <ul>
-<li><b>Time</b>: Sunday, 06/19/2022, exact time TBD.</li>
+<li><b>Time</b>: Sunday, 06/19/2022, 9:00 - 17.00.</li>
 <li><b>Location</b>: CVPR 2022, New Orleans, Louisiana, USA, and online, link TBD.</li>
-<li><b>Discussion and Q&A</b>: TBD</li>
 <li><b>Primary contact</b>: dbarath@ethz.ch </li>
 </ul>
+
+---
+### Schedule
+
+<table>
+	<tr>
+		<td>9.00</td>
+		<td>9.45</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>9.45</td>
+		<td>11.15</td>
+		<td>Affine Correspondences in Stereo Vision (Levente Hajder)</td>
+	</tr>
+	<tr>
+		<td>11.15</td>
+		<td>12.45</td>
+		<td>Affine Correspondences and Where to Find Them (Dmytro Mishkin)</td>
+	</tr>
+	<tr>
+		<td>12.45</td>
+		<td>14.00</td>
+		<td>Lunch Break</td>
+	</tr>
+	<tr>
+		<td>14.00</td>
+		<td>15.30</td>
+		<td>Rectification and Auto-Calibration from Affine-Correspondences (James Pritts)</td>
+	</tr>
+	<tr>
+		<td>15.30</td>
+		<td>17.00</td>
+		<td>Using Covariant Features in Practice (Daniel Barath)</td>
+	</tr>
+</table>
 
 --- 
 ### Organizer
