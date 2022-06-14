@@ -20,6 +20,11 @@ The main objective of this tutorial is to present the theory and applications of
 
 <table>
 	<tr>
+		<td>Begin</td>
+		<td>End</td>
+		<td>Title</td>
+	</tr>
+	<tr>
 		<td>9.00</td>
 		<td>9.45</td>
 		<td>Introduction</td>
@@ -27,12 +32,12 @@ The main objective of this tutorial is to present the theory and applications of
 	<tr>
 		<td>9.45</td>
 		<td>11.15</td>
-		<td>Affine Correspondences in Stereo Vision (Levente Hajder)</td>
+		<td>Affine Correspondences in Stereo Vision<br>(Levente Hajder)</td>
 	</tr>
 	<tr>
 		<td>11.15</td>
 		<td>12.45</td>
-		<td>Affine Correspondences and Where to Find Them (Dmytro Mishkin)</td>
+		<td>Affine Correspondences and Where to Find Them<br>(Dmytro Mishkin)</td>
 	</tr>
 	<tr>
 		<td>12.45</td>
@@ -42,12 +47,12 @@ The main objective of this tutorial is to present the theory and applications of
 	<tr>
 		<td>14.00</td>
 		<td>15.30</td>
-		<td>Rectification and Auto-Calibration from Affine-Correspondences (James Pritts)</td>
+		<td>Rectification and Auto-Calibration from Affine Correspondences<br>(James Pritts)</td>
 	</tr>
 	<tr>
 		<td>15.30</td>
 		<td>17.00</td>
-		<td>Using Covariant Features in Practice (Daniel Barath)</td>
+		<td>Using Covariant Features in Practice<br>(Daniel Barath)</td>
 	</tr>
 </table>
 
