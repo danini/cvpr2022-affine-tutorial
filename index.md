@@ -18,8 +18,8 @@ The main objective of this tutorial is to present the theory and applications of
 ---
 ### Schedule
 
-<table>
-	<tr>
+<table style="width: 100%">
+	<tr style="font-weight: bold">
 		<td>Begin</td>
 		<td>End</td>
 		<td>Title</td>
