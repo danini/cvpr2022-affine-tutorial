@@ -47,7 +47,7 @@ The main objective of this tutorial is to present the theory and applications of
 	<tr>
 		<td>14.00</td>
 		<td>15.30</td>
-		<td>Rectification and Auto-Calibration from Affine Correspondences<br>(James Pritts)</td>
+		<td>Just One Image is All It Takes: Rectification, Auto-Calibration and Scene Parsing from Affine-Correspondences of Coplanar Repetitive Textures<br>(James Pritts)</td>
 	</tr>
 	<tr>
 		<td>15.30</td>
