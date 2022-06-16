@@ -91,7 +91,7 @@ The main objective of this tutorial is to present the theory and applications of
        	<div class="container">
 	<img class="circular_image" src="imgs/pritts.jpg"/>
 	<div class="content">
-	<a href="https://prittjam.github.io/">James Pritts</a> <br> Applied Algebra & Geometry Group, Czech Institute of Informatics, Robotics and Cybernetics, Czech Technical University in Prague<br> jbpritts@gmail.com
+	<a href="https://prittjam.github.io/">James Pritts</a> <br> Applied Algebra & Geometry Group, Czech Institute of Informatics, Robotics and Cybernetics, Czech Technical University in Prague<br> prittjam@cvut.cz
 	</div>
 	</div>
   </div>
