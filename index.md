@@ -52,8 +52,8 @@ The main objective of this tutorial is to present the theory and applications of
 	<tr>
 		<td>14.00</td>
 		<td>15.30</td>
-		<td>Rectification and Auto-Calibration from Affine Correspondences<br>
-			<a target="_blank" href="https://docs.google.com/presentation/d/1TvDWLpCDAwNW5vnptl3uCcoIkAZxMoHPXg6WwjVVUdA/edit?usp=sharing">SLIDE</a> (James Pritts)</td>
+		<td>Just One Image is All It Takes: Rectification, Auto-Calibration and Scene Parsing from Affine-Correspondences of Coplanar Repetitive Textures<br>
+		<a target="_blank" href="https://docs.google.com/presentation/d/1TvDWLpCDAwNW5vnptl3uCcoIkAZxMoHPXg6WwjVVUdA/edit?usp=sharing">SLIDE</a> (James Pritts)</td>
 	</tr>
 	<tr>
 		<td>15.30</td>
@@ -98,7 +98,7 @@ The main objective of this tutorial is to present the theory and applications of
        	<div class="container">
 	<img class="circular_image" src="imgs/pritts.jpg"/>
 	<div class="content">
-	<a href="https://prittjam.github.io/">James Pritts</a> <br> Applied Algebra & Geometry Group, Czech Institute of Informatics, Robotics and Cybernetics, Czech Technical University in Prague<br> jbpritts@gmail.com
+	<a href="https://prittjam.github.io/">James Pritts</a> <br> Applied Algebra & Geometry Group, Czech Institute of Informatics, Robotics and Cybernetics, Czech Technical University in Prague<br> prittjam@cvut.cz
 	</div>
 	</div>
   </div>
