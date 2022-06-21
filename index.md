@@ -35,7 +35,7 @@ The main objective of this tutorial is to present the theory and applications of
 		<td>9.45</td>
 		<td>11.15</td>
 		<td>Affine Correspondences in Stereo Vision<br>
-			(<a target="_blank" href="https://drive.google.com/file/d/15OSbbSIEVEPZejA3HfKLRJAtJTpEXD_A/view?usp=sharing">SLIDE</a> 
+			(<a target="_blank" href="https://drive.google.com/file/d/1jsvyTea3aXC0T5_Jh5ufidkojaeHO33Y/view?usp=sharing">SLIDE</a> 
 			 Levente Hajder)</td>
 	</tr>
 	<tr>
