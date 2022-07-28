@@ -53,7 +53,8 @@ The main objective of this tutorial is to present the theory and applications of
 		<td>14.00</td>
 		<td>15.30</td>
 		<td>Just One Image is All It Takes: Rectification, Auto-Calibration and Scene Parsing from Affine-Correspondences of Coplanar Repetitive Textures<br>
-		(<a target="_blank" href="https://docs.google.com/presentation/d/1TvDWLpCDAwNW5vnptl3uCcoIkAZxMoHPXg6WwjVVUdA/edit?usp=sharing">SLIDE</a>, James Pritts)</td>
+		(<a target="_blank" href="https://docs.google.com/presentation/d/1TvDWLpCDAwNW5vnptl3uCcoIkAZxMoHPXg6WwjVVUdA/edit?usp=sharing">SLIDE</a> 
+        , <a target="_blank" href="https://www.youtube.com/watch?v=vACBNmKUOrc&t=6s">VIDEO</a>, James Pritts)</td>
 	</tr>
 	<tr>
 		<td>15.30</td>
