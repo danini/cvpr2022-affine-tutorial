@@ -49,6 +49,7 @@ rank: 3
 		<td>15.30</td>
 		<td>17.00</td>
 		<td>Using Covariant Features in Practice<br>
-			(<a target="_blank" href="https://docs.google.com/presentation/d/1cRb80uVmY-Erm2KHnqNSJzgHEaUAi8XB/edit?usp=sharing&ouid=115298473833145933100&rtpof=true&sd=true">SLIDE</a>, Daniel Barath)</td>
+			(<a target="_blank" href="https://docs.google.com/presentation/d/1cRb80uVmY-Erm2KHnqNSJzgHEaUAi8XB/edit?usp=sharing&ouid=115298473833145933100&rtpof=true&sd=true">SLIDE</a>,
+			 <a target="_blank" href="https://youtu.be/NWWD7Vqt-Ho">VIDEO</a>, Daniel Barath)</td>
 	</tr>
 </table>
