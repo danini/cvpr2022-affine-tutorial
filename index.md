@@ -4,7 +4,7 @@ title: Affine Correspondences and Their Applications
 rank: 3
 ---
 
-The main objective of this tutorial is to present the theory and applications of affine correspondences (AC) in computer vision. The tutorial will show recent advancements in exploiting affine features in single- and two-view problems, including image rectification, homography and epipolar geometry estimation. Also, we will discuss traditional and recent deep learning-based algorithms for detecting, matching, and robustly using such features in real-world images. 
+The main objective of this tutorial is to present the theory and applications of affine correspondences (AC) in computer vision. The tutorial will show recent advancements in exploiting affine features in single- and two-view problems, including image rectification, homography and epipolar geometry estimation. Also, we will discuss traditional and recent deep learning-based algorithms for detecting, matching, and robustly using such features in real-world images.
 
 ---
 ### Info
@@ -28,21 +28,23 @@ The main objective of this tutorial is to present the theory and applications of
 		<td>9.00</td>
 		<td>9.45</td>
 		<td>Introduction<br>
-			(<a target="_blank" href="https://docs.google.com/presentation/d/1GEw_fDqmUhgUzNJRs_4MYb6Gi0K_z3Dc/edit?usp=sharing&ouid=115298473833145933100&rtpof=true&sd=true">SLIDE</a>)
+			(<a target="_blank" href="https://docs.google.com/presentation/d/1GEw_fDqmUhgUzNJRs_4MYb6Gi0K_z3Dc/edit?usp=sharing&ouid=115298473833145933100&rtpof=true&sd=true">SLIDE</a>,
+ <a target="_blank" href="https://www.youtube.com/watch?v=mODH8NSb9DM">VIDEO</a>, Daniel Barath)
 		</td>
 	</tr>
 	<tr>
 		<td>9.45</td>
 		<td>11.15</td>
 		<td>Affine Correspondences in Stereo Vision<br>
-			(<a target="_blank" href="https://drive.google.com/file/d/1jsvyTea3aXC0T5_Jh5ufidkojaeHO33Y/view?usp=sharing">SLIDE</a> 
+			(<a target="_blank" href="https://drive.google.com/file/d/1jsvyTea3aXC0T5_Jh5ufidkojaeHO33Y/view?usp=sharing">SLIDE</a>
 			 Levente Hajder)</td>
 	</tr>
 	<tr>
 		<td>11.15</td>
 		<td>12.45</td>
 		<td>Affine Correspondences and Where to Find Them<br>
-			(<a target="_blank" href="https://docs.google.com/presentation/d/1p6wrkrm3xzjurpUWyoDxFYyWZV-8yfjZ/edit?usp=sharing&ouid=115298473833145933100&rtpof=true&sd=true">SLIDE</a>, Dmytro Mishkin)</td>
+			(<a target="_blank" href="https://docs.google.com/presentation/d/1p6wrkrm3xzjurpUWyoDxFYyWZV-8yfjZ/edit?usp=sharing&ouid=115298473833145933100&rtpof=true&sd=true">SLIDE</a>,
+ <a target="_blank" href="https://www.youtube.com/watch?v=TWWonIHQQXA">VIDEO</a>, Dmytro Mishkin)</td>
 	</tr>
 	<tr>
 		<td>12.45</td>
@@ -53,7 +55,7 @@ The main objective of this tutorial is to present the theory and applications of
 		<td>14.00</td>
 		<td>15.30</td>
 		<td>Just One Image is All It Takes: Rectification, Auto-Calibration and Scene Parsing from Affine-Correspondences of Coplanar Repetitive Textures<br>
-		(<a target="_blank" href="https://docs.google.com/presentation/d/1TvDWLpCDAwNW5vnptl3uCcoIkAZxMoHPXg6WwjVVUdA/edit?usp=sharing">SLIDE</a> 
+		(<a target="_blank" href="https://docs.google.com/presentation/d/1TvDWLpCDAwNW5vnptl3uCcoIkAZxMoHPXg6WwjVVUdA/edit?usp=sharing">SLIDE</a>
         , <a target="_blank" href="https://www.youtube.com/watch?v=vACBNmKUOrc&t=6s">VIDEO</a>, James Pritts)</td>
 	</tr>
 	<tr>
@@ -64,7 +66,7 @@ The main objective of this tutorial is to present the theory and applications of
 	</tr>
 </table>
 
---- 
+---
 ### Organizer
 
 <div class="row">
@@ -110,4 +112,3 @@ The main objective of this tutorial is to present the theory and applications of
 
 <b>Feb 15, 2022</b> &emsp; Our tutorial has been accepted to CVPR 2022! <br>
 <b>Apr 04, 2022</b> &emsp; More information to come soon, stay tuned.
-
