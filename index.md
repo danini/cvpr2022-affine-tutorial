@@ -36,8 +36,10 @@ The main objective of this tutorial is to present the theory and applications of
 		<td>9.45</td>
 		<td>11.15</td>
 		<td>Affine Correspondences in Stereo Vision<br>
-			(<a target="_blank" href="https://drive.google.com/file/d/1jsvyTea3aXC0T5_Jh5ufidkojaeHO33Y/view?usp=sharing">SLIDE</a>
+			(<a target="_blank" href="https://drive.google.com/file/d/1jsvyTea3aXC0T5_Jh5ufidkojaeHO33Y/view?usp=sharing">SLIDE</a>,
+			 <a target="_blank" href="https://youtu.be/mE87zv_ZsIM">VIDEO</a>,
 			 Levente Hajder)</td>
+
 	</tr>
 	<tr>
 		<td>11.15</td>
@@ -62,7 +64,8 @@ The main objective of this tutorial is to present the theory and applications of
 		<td>15.30</td>
 		<td>17.00</td>
 		<td>Using Covariant Features in Practice<br>
-			(<a target="_blank" href="https://docs.google.com/presentation/d/1cRb80uVmY-Erm2KHnqNSJzgHEaUAi8XB/edit?usp=sharing&ouid=115298473833145933100&rtpof=true&sd=true">SLIDE</a>, Daniel Barath)</td>
+			(<a target="_blank" href="https://docs.google.com/presentation/d/1cRb80uVmY-Erm2KHnqNSJzgHEaUAi8XB/edit?usp=sharing&ouid=115298473833145933100&rtpof=true&sd=true">SLIDE</a>,
+			 <a target="_blank" href="https://youtu.be/NWWD7Vqt-Ho">VIDEO</a>, Daniel Barath)</td>
 	</tr>
 </table>
 

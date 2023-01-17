@@ -22,7 +22,8 @@ rank: 3
 		<td>9.45</td>
 		<td>11.15</td>
 		<td>Affine Correspondences in Stereo Vision<br>
-			(<a target="_blank" href="https://drive.google.com/file/d/1jsvyTea3aXC0T5_Jh5ufidkojaeHO33Y/view?usp=sharing">SLIDE</a>
+			(<a target="_blank" href="https://drive.google.com/file/d/1jsvyTea3aXC0T5_Jh5ufidkojaeHO33Y/view?usp=sharing">SLIDE</a>,
+			 <a target="_blank" href="https://youtu.be/mE87zv_ZsIM">VIDEO</a>,
 			 Levente Hajder)</td>
 	</tr>
 	<tr>
